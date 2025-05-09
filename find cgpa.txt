@@ -1,0 +1,24 @@
+// find cgpa
+#include <stdio.h>
+int main()
+{
+    float cgpa=7.9;
+    if (cgpa=0.5)
+    {
+        printf("enter the values.\n");
+    }
+    else if (cgpa>=0.9)
+    {
+        printf("enter tha cgpa.\n");
+    }
+    else if (cgpa=7.9)
+    {
+        printf("enter the marks .\n");
+    }
+    else
+    {
+        printf("value is zero.\n");
+    }    
+    return 0;
+}    
+

@@ -1,0 +1,7 @@
+/ a simple program in c
+#include<stdio.h>
+int main()
+{
+printf("Hello World\n");// output the hello world to console
+return 0;//this is return 0
+}

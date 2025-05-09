@@ -1,0 +1,8 @@
+//find power values
+#include<math.h>
+#include<stdio.h>
+int main()
+{
+    printf("value 8.0*3=%\n",pow(8.0,3));
+    return 0;
+}

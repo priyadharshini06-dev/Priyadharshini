@@ -1,0 +1,28 @@
+my self Priyadharshini Gunasekaran,
+from cuddalure district,
+I am currently perceiving BE(BIO MEDICAL ENGINEERING);
+at sri shanmugha college of engineering and technology
+I am passed at my school in ,
+government girls higher secondary school, kurinjipadi.
+
+
+
+COMMUNICATION SYSTEM:  
+      
+        we are going to start the study of data communications. before that, we will revise some of the important concept of communication. 
+
+WHAT IS THE COMMUNICATION?
+communication is the process of establishing connection between two points for information exchange.
+1.sender or transmitter: it sends information, for example, tv transmitting station are radio transmitting station are 'senders', since they transmit information.
+2.receiver: it receivers information. for example, all tv sets and radios are receivers. they get information from transmitter.
+3.communication channel: this is the path through which the signal propagates from transmitter to receiver.
+show an example of communication system.
+now let us consider different example of communication that we use in our day to day life.
+1.TELEPHONE: all of us use telephones nowadays. we know that we talk and listen through the telephone. the telephone set is connected to telephone exchange 
+through wires. the other telephones are connected in the same way.
+
+
+
+             COMMUNICATION ON TELEPHONES; line communication through wire
+the transmission is bidirectional. every telephone subscriber can talk as will as listen. talking is equivalent to transmission of data and listening is equivalent to receiving of data.
+

@@ -1,0 +1,18 @@
+// arithmatic program
+
+#include<stdio.h>
+int main()
+{
+int a,b, sum,sub,multi,divided;
+printf("Enter the numbers");
+scanf("%d %d",&a,&b);
+sum=a+b;//add two values
+printf("sum= %d\n",sum);
+sub=a-b;//sub two values
+printf("sub= %d\n",sub);
+multi=a*b;//multiply two values
+printf("multi= %d\n",multi);
+divided=a/b;//div two values
+printf("divided= %d\n",divided);
+return 0;
+}
